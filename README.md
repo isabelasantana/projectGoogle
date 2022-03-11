@@ -14,3 +14,5 @@ The project contains a simple step to conclude a research by voice, if you want 
 
 Thanks hope you like it !!
 #qa #google 
+Please remember to  have installed the driver for your browser like chromedriver etc
+Also the document is in zip mode 
